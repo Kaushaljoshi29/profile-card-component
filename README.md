@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://kaushaljoshi29.github.io/profile-card-component/)
+- Live Site URL: (https://github.com/Kaushaljoshi29/profile-card-component)
 
 ## My process
 
@@ -37,18 +37,19 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Flexbox
 
 ### What I learned
-
+This beginner level project helped me to practice CSS Flexbox and nested layout techniques. 
 
 
 ### Continued development
+Will continue to learn CSS Flexbox and grid in order to implement more cmoplex and responsive layouts in future.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Using_multiple_backgrounds) - This helped me in understanding, how to add multiple backgrounds in CSS.
+- (https://www.tutorialrepublic.com/faq/how-to-change-the-color-of-an-hr-element-using-css.php) - This helped me to change the color of <hr> element
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Kaushaljoshi29](https://www.frontendmentor.io/profile/Kaushaljoshi29)
