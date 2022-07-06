@@ -19,7 +19,6 @@ body {
   align-items: center;
   font-family: "Kumbh Sans", sans-serif;
   background-image: url(./images/bg-pattern-top.svg),url(./images/bg-pattern-bottom.svg);
-    /* url(./images/bg-pattern-bottom.svg); */
   background-position: -80% 160%, 185% -80%;
   background-repeat: no-repeat, no-repeat;
   background-color: var(--Dark-cyan);
@@ -71,6 +70,7 @@ h3 {
   justify-content: space-around;
   align-items: center;
 }
+
 hr {
   margin-top: 25px;
   margin-bottom: 25px;
@@ -78,14 +78,19 @@ hr {
   background-color: hsl(224, 9%, 77%);
   border: none;
 }
+
 .profile-stats {
   display: flex;
   justify-content: space-around;
   padding-bottom: 20px;
 }
-.stats {
-  text-align: center;
+
+.followers-stats,
+.likes-stats,
+.photos-stats{
+    text-align: center;
 }
+
 .profile-stats span {
   font-size: 13px;
   color: var(--Dark-grayish-blue);
